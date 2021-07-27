@@ -5,7 +5,6 @@ import './App.css';
 function App() {
   return (
     <div className="app">
-      <h1>Lets Build a Discord Clone!!</h1>
       {/* Sidebar */}
       <Sidebar />
 
