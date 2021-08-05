@@ -7,6 +7,7 @@ import SignalCellularAltIcon from '@material-ui/icons/SignalCellularAlt';
 import CallIcon from '@material-ui/icons/Call';
 import InfoOutlinedIcon from '@material-ui/icons/InfoOutlined';
 import { Avatar } from "@material-ui/core";
+// streaks
 
 function Sidebar() {
     return (
@@ -57,7 +58,7 @@ function Sidebar() {
                 </div>
 
                 <div class="sidebar__profileIcons">
-                    
+
                 </div>
             </div>
         </div>
